@@ -1,0 +1,86 @@
+nav{
+	height:100px;
+	padding:10px;
+}
+.navbar-brand{
+	font-size:30px;
+}
+.navbar-brand img{
+	height:60px;
+	width:200px;
+	
+}
+.nav-item{
+	font-size:30px;
+	padding:15px;
+	transition:background 1s;
+	font-weight:bold;
+}
+.nav-item:hover{
+	background:orange;
+	color:white;
+}
+.container{
+	margin-top:8%;
+}
+
+footer ul{
+	
+	margin-top:6%;
+}
+footer ul li {
+	text-decoration:none;
+	list-style-type:none;
+}
+footer ul li a{
+	color:white;
+}
+footer ul li a:hover{
+	color:white;
+}
+#about_us{
+	font-family:Bookman, URW Bookman L, serif;
+	font-size:110%;
+}
+#tabs button{
+	width:100%;
+	text-align:center;
+	font-size:120%;
+}
+.advertisement{
+	width:100%;
+	height:50%;
+	border:3px solid gray;
+}
+ul li{
+	list-style-type:none;
+}
+.vdeo img{
+	width:100%;
+	margin-bottom:10%;
+	box-shadow:5px 5px 10px black;
+}
+iframe{
+	width:100%;
+	height:20%;
+	margin-bottom:10%;
+	box-shadow:5px 5px 10px black;
+}
+.vdeo p{
+	font-size:15px;
+	font-weight:bold;
+	text-decoration:underline;
+}
+#tabs img{
+	width:100%;
+	height:30%;
+}
+#tabs img:hover{
+	box-shadow:7px 7px 30px silver;
+}
+#tabs ul li a{
+	height:8%;
+	width:100%;
+	font-size:150%;
+	font-weight:bold;
+}
